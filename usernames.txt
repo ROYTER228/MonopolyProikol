@@ -1,0 +1,15 @@
+vira
+monopolist
+trader
+reseller
+buyer
+seller
+premium
+gold
+silver
+bronze
+top
+best
+pro
+master
+expert 

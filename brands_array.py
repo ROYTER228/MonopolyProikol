@@ -1,0 +1,1 @@
+BRANDS = ['audi', 'bmw']
